@@ -1,2 +1,24 @@
 # SQL-Analysis-Project
-This project is a simple and practical way to practice SQL. It includes everything from creating tables and adding data to running useful queries that help you understand the data better. Whether you’re just starting with SQL or want to sharpen your skills, this project gives you a hands-on experience with a real-world-style database.
+-This project simulates a retail sales environment and analyzes customer behavior, product performance, and sales trends using SQL.
+
+## Tech Stack
+- PostgreSQL / MySQL
+- SQL (CTEs, Window Functions, Joins, Aggregations)
+
+## Key Insights
+- Regional sales performance
+- Top spending customers
+- Monthly sales growth
+- Customer retention (repeat vs new)
+
+## Skills Practiced
+- Data modeling and normalization
+- Advanced SQL querying
+- Analytical thinking for business reporting
+
+## Data Tables
+- `customers`
+- `products`
+- `orders`
+- `order_items`
+
